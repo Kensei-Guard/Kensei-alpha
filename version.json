@@ -1,6 +1,6 @@
 {
-  "versionCode": 26081704,
-  "versionName": "A26.8.17.4",
+  "versionCode": 26081703,
+  "versionName": "A26.8.17.3",
   "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.17.3/app-arm64-v8a-release.apk",
   "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.17.3/app-armeabi-v7a-release.apk",
   "changelog": "• Фоновое скачивание обновлений с живым прогресс-баром в настройках\n• Поддержка Deep Links (kensei://, happ://) для импорта подписок в 1 клик\n• Автоматическая очистка кэша после установки\n• Оптимизация работы на Android 14+",
