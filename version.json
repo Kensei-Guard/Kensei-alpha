@@ -1,8 +1,8 @@
 {
-  "versionCode": 26081701,
-  "versionName": "A26.8.17.1",
-  "downloadUrlArm64": "https://github.com/Kensei-Guard/kensei-alpha/releases/download/A26.8.17.1/app-arm64-v8a-release.apk",
-  "downloadUrlArmV7": "https://github.com/Kensei-Guard/kensei-alpha/releases/download/A26.8.17.1/app-armeabi-v7a-release.apk",
-  "changelog": "• Первая альфа-версия Kensei VPN\n• Поддержка протоколов VLESS-Reality\n• Журнал сессий и экспорт диагностических логов\n• Встроенная система автообновлений",
+  "versionCode": 26081702,
+  "versionName": "A26.8.17.2",
+  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.17.2/app-arm64-v8a-release.apk",
+  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.17.2/app-armeabi-v7a-release.apk",
+  "changelog": "• Добавлена поддержка Deep Link (kensei://, happ://) для импорта в 1 клик\n• Умный импорт подписок из браузера\n• Повышена общая стабильность и оптимизация памяти",
   "isForceUpdate": false
 }
