@@ -1,8 +1,8 @@
 {
   "versionCode": 26081906,
-  "versionName": "A26.8.19.6",
-  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.19.6/app-arm64-v8a-release.apk",
-  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.19.6/app-armeabi-v7a-release.apk",
+  "versionName": "A26.8.19.7",
+  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.19.7/app-arm64-v8a-release.apk",
+  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.19.7/app-armeabi-v7a-release.apk",
   "changelog": "⚠️ ВНИМАНИЕ: Из-за обновления базы данных сохранённые подписки сбросятся. После установки обновления добавьте вашу ссылку на подписку заново!\n\n• Новый премиальный титановый брендинг (иконка и 16:9 баннер для Android TV)\n• Мгновенный холодный запуск приложения без задержек и черных экранов\n• Существенное снижение размера APK\n• Оптимизация плавности интерфейса для Android TV и слабых устройств\n• Повышение общей стабильности работы",
   "isForceUpdate": false
 }
