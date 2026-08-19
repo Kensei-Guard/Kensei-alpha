@@ -1,8 +1,8 @@
 {
   "versionCode": 26081903,
   "versionName": "vA26.8.19.3",
-  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/A26.8.19.3/app-arm64-v8a-release.apk",
-  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/A26.8.19.3/app-armeabi-v7a-release.apk",
+  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.19.3/app-arm64-v8a-release.apk",
+  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.19.3/app-armeabi-v7a-release.apk",
   "changelog": "• Комплексная оптимизация: ускорение холодного запуска приложения\n• Полное исправление светлой темы во всех диалогах и окне умного режима\n• Устранение сбоев сети и оптимизация зашифрованной базы данных SQLCipher\n• Добавлена возможность ручного удаления скачанных обновлений с подтверждением",
   "isForceUpdate": false
 }
