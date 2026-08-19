@@ -1,6 +1,6 @@
 {
   "versionCode": 26081801,
-  "versionName": "vA26.8.19.1",
+  "versionName": "vA26.8.19.2",
   "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.18.1/app-arm64-v8a-release.apk",
   "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.18.1/app-armeabi-v7a-release.apk",
   "changelog": "• Обновлен и отполирован UI главного экрана\n• Полная долокализация всех новых тумблеров и настроек\n• Улучшена плавность анимаций",
