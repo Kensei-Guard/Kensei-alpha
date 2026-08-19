@@ -1,8 +1,8 @@
 {
   "versionCode": 26081902,
-  "versionName": "A26.8.19.2",
-  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/A26.8.19.2/app-arm64-v8a-release.apk",
-  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/A26.8.19.2/app-armeabi-v7a-release.apk",
-  "changelog": "• Срочный хотфикс: устранение сбоев проверки Wi-Fi сетей\n• Фикс распаковки нативных библиотек на старых устройствах\n• Финальная полировка светлой темы и единого стиля",
+  "versionName": "vA26.8.19.2",
+  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.19.2/app-arm64-v8a-release.apk",
+  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.19.2/app-armeabi-v7a-release.apk",
+  "changelog": "• Срочный хотфикс: устранение сбоев проверки Wi-Fi сетей\n• Фикс распаковки нативных библиотек на старых устройствах (Samsung/Android 8.0)\n• Финальная полировка светлой темы и единого индиго-акцента",
   "isForceUpdate": false
 }
