@@ -1,8 +1,8 @@
 {
-  "versionCode": 26082001,
-  "versionName": "A26.8.20.1",
-  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.20.1/app-arm64-v8a-release.apk",
-  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.20.1/app-armeabi-v7a-release.apk",
-  "changelog": "⚠️ ВНИМАНИЕ: Из-за обновления базы данных сохранённые подписки сбросятся. После установки обновления добавьте вашу ссылку на подписку заново!\n\n• Новый премиальный титановый брендинг (иконка и 16:9 баннер для Android TV)\n• Мгновенный холодный запуск приложения без задержек и черных экранов\n• Существенное снижение размера APK\n• Оптимизация плавности интерфейса для Android TV и слабых устройств\n• Повышение общей стабильности работы",
+  "versionCode": 26082601,
+  "versionName": "A26.8.26.1",
+  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.26.1/app-arm64-v8a-release.apk",
+  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.26.1/app-armeabi-v7a-release.apk",
+  "changelog": "• Исправлен парсер подписок: корректный разбор xray_json, YAML и Base64\n• Устранены зависания и вечная загрузка фото/видео в Snapchat и Instagram\n• Бесшовное переключение сетей: туннель не зависает при смене Wi-Fi ↔ LTE\n• Улучшена поддержка транспортов gRPC Reality и XHTTP\n• Защита от утечек IPv6 и оптимизация фонового энергопотребления",
   "isForceUpdate": false
 }
