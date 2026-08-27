@@ -1,8 +1,8 @@
 {
-  "versionCode": 26082603,
-  "versionName": "A26.8.26.3",
-  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.26.3/app-arm64-v8a-release.apk",
-  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.26.3/app-armeabi-v7a-release.apk",
-  "changelog": "• Исправлен парсер подписок: корректный разбор xray_json, YAML и Base64\n• Устранены зависания и вечная загрузка фото/видео в Snapchat и Instagram\n• Бесшовное переключение сетей: туннель не зависает при смене Wi-Fi ↔ LTE\n• Улучшена поддержка транспортов gRPC Reality и XHTTP\n• Защита от утечек IPv6 и оптимизация фонового энергопотребления",
+  "versionCode": 26082702,
+  "versionName": "A26.8.27.2",
+  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.27.2/app-arm64-v8a-release.apk",
+  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.27.2/app-armeabi-v7a-release.apk",
+  "changelog": "• Новый собственный движок парсинга KenseiOmniEngine\n• Обновление UI: строгий титановый стиль (Titanium Slate)\n• Полная защита от утечек памяти в архитектуре приложения",
   "isForceUpdate": false
 }
