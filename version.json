@@ -1,8 +1,8 @@
 {
-  "versionCode": 26082802,
-  "versionName": "A26.8.28.2",
-  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.28.2/app-arm64-v8a-release.apk",
-  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.28.2/app-armeabi-v7a-release.apk",
+  "versionCode": 26082902,
+  "versionName": "A26.8.29.2",
+  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.29.2/app-arm64-v8a-release.apk",
+  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.29.2/app-armeabi-v7a-release.apk",
   "changelog": "• Добавлена проверка пинга по двойному тапу на телефонах\n• Повышена стабильность работы при переключении серверов\n• Исправлены критические ошибки и утечки IP",
   "isForceUpdate": false
 }
