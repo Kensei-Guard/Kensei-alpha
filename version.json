@@ -1,8 +1,8 @@
 {
-  "versionCode": 26082902,
-  "versionName": "A26.8.29.2",
-  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.29.2/app-arm64-v8a-release.apk",
-  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.8.29.2/app-armeabi-v7a-release.apk",
-  "changelog": "• Добавлена проверка пинга по двойному тапу на телефонах\n• Повышена стабильность работы при переключении серверов\n• Исправлены критические ошибки и утечки IP",
+  "versionCode": 26090501,
+  "versionName": "A26.9.5.1",
+  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.9.5.1/app-arm64-v8a-release.apk",
+  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.9.5.1/app-armeabi-v7a-release.apk",
+  "changelog": "• Добавлены гибкие режимы пинга (via Proxy, TCP, ICMP) с поддержкой gRPC\n• Исправлен замер пинга при активном VPN\n• Умная задержка и стабилизация при смене сетей Wi-Fi ⇄ 4G\n• Понятный статус «н/д» для недоступных серверов и чистый монохромный стиль",
   "isForceUpdate": false
 }
