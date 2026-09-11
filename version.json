@@ -1,11 +1,11 @@
 {
-  "versionCode": 26090801,
-  "versionName": "A26.9.8.1",
-  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.9.8.1/app-arm64-v8a-release.apk",
-  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.9.8.1/app-armeabi-v7a-release.apk",
-  "changelog": "• Восстановлен мгновенный доступ к Google и YouTube\n• Добавлен приятный тактильный виброотклик на подключение и отключение\n• Новые плавные анимации кнопки питания и таймера сессии\n• Усилена безопасность: сверка SHA-256 и подтверждение импорта ссылок\n• Повышена стабильность на Android TV",
+  "versionCode": 26091102,
+  "versionName": "A26.9.11.2",
+  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.9.11.2/app-arm64-v8a-release.apk",
+  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.9.11.2/app-armeabi-v7a-release.apk",
+  "changelog": "• Обновление Xray-Core до 26.9.9\n• Поддержка балансировщиков RemnaWave (JSON)\n• Исправлено зависание DNS и задержки замеров\n• Защита от утечки IP при включённом VPN\n• Множественный экспорт файлов логов",
   "isForceUpdate": false,
   "fileSize": "26.4 МБ",
-  "sha256Arm64": "a9bbdd2183a3015fd22e1647352786b782cedb3b7b9026f3fe79310371cb7b8b",
-  "sha256ArmV7": "d6b661d7f774005451c96c97ad10b012a3113d11a6f9489bb72e67ad4c745dbf"
+  "sha256Arm64": "5544fb2694bbc02b0b79d23c51d143c9afb4fa55814605f8f6dd10903d793808",
+  "sha256ArmV7": "b23e73a6c656361b85a3df2f100fa87f75d7b6fa21a00956a4688b00866671db"
 }
