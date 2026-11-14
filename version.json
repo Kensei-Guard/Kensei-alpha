@@ -6,6 +6,6 @@
   "changelog": "• Обновление ядра Xray-Core до 26.11.9\n• Плавное и быстрое переключение между серверами\n• Улучшена стабильность на прошивках MIUI / HyperOS и OneUI\n• Мгновенный запуск VPN из шторки уведомлений\n• Оптимизация обновления подписок и замера пинга",
   "isForceUpdate": false,
   "fileSize": "26.4 МБ",
-  "sha256Arm64": "sha256:a48d2f6ebc7c3bee7c20a04981b9e7253b4ab1ef0cbfed390bbc99fb213bac06",
-  "sha256ArmV7": "sha256:08ab31d4c191a64a9b7a183be91b1a765412f875dd26624e4c2f86eeab55fc52"
+  "sha256Arm64": "a48d2f6ebc7c3bee7c20a04981b9e7253b4ab1ef0cbfed390bbc99fb213bac06",
+  "sha256ArmV7": "08ab31d4c191a64a9b7a183be91b1a765412f875dd26624e4c2f86eeab55fc52"
 }
