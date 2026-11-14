@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Kensei Guard (Alpha)
+# 🛡️ PROJECT PHANTOM
 
 **Современный, высокоскоростной и безопасный VPN-клиент нового поколения для Android на базе ядра Xray-core.**
 
@@ -66,7 +66,7 @@
 * **Language:** Kotlin
 * **UI:** Jetpack Compose & Material 3
 * **Core:** Xray-core (Go / JNI)
-* **Security:** SQLCipher, Tink Crypto, Network Security Config
+* **Security:** Tink Crypto, Network Security Config
 * **Architecture:** Clean Architecture + MVI/MVVM + Coroutines / Kotlin Flow
 
 ---
