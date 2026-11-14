@@ -1,11 +1,11 @@
 {
-  "versionCode": 26111401,
-  "versionName": "A26.11.14.1",
-  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.11.14.1/app-arm64-v8a-release.apk",
-  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.11.14.1/app-armeabi-v7a-release.apk",
+  "versionCode": 26111402,
+  "versionName": "A26.11.14.2",
+  "downloadUrlArm64": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.11.14.2/app-arm64-v8a-release.apk",
+  "downloadUrlArmV7": "https://github.com/Kensei-Guard/Kensei-alpha/releases/download/vA26.11.14.2/app-armeabi-v7a-release.apk",
   "changelog": "• Обновление ядра Xray-Core до 26.11.9\n• Плавное и быстрое переключение между серверами\n• Улучшена стабильность на прошивках MIUI / HyperOS и OneUI\n• Мгновенный запуск VPN из шторки уведомлений\n• Оптимизация обновления подписок и замера пинга",
   "isForceUpdate": false,
   "fileSize": "26.4 МБ",
-  "sha256Arm64": "ffb8cabf2329219550fd99e881d23c05bfb65394027352e4719dcade8717b114",
-  "sha256ArmV7": "5d1fd3eb831d50f99fc953be81cb77c357c3e9f3be1743734595b5a35bf456d8"
+  "sha256Arm64": "11622ef193e5ef04d31f81a0adf5922d8847983edb5d2a46e19d08b98c4eae5e",
+  "sha256ArmV7": "6e8da170b753690314dc9806b5aa80055d6607781da7eda5d08b6b9ae61039c6"
 }
