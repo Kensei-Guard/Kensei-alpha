@@ -2,7 +2,7 @@
 
 # 🥷 PROJECT PHANTOM 😈
 
-**Современный, высокоскоростной и безопасный VPN-клиент нового поколения для Android на базе ядра Xray-core.**
+**Современный, высокоскоростной и безопасный VPN-клиент нового поколения для Android, IOS, macOS, Windows на базе ядра Xray-core.**
 
 [![Release](https://img.shields.io/github/v/release/Kensei-Guard/Kensei-alpha?style=for-the-badge&color=gold)](https://github.com/Kensei-Guard/Kensei-alpha/releases)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-brightgreen.svg?style=for-the-badge&logo=android)](https://www.android.com)
