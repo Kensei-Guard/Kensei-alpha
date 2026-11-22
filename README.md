@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ PROJECT PHANTOM
+# 🥷 PROJECT PHANTOM 😈
 
 **Современный, высокоскоростной и безопасный VPN-клиент нового поколения для Android на базе ядра Xray-core.**
 
