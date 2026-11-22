@@ -63,7 +63,7 @@
 
 ## 🛠️ Технологический стек
 
-* **Language:** Kotlin
+* **Language:** KMP, Rust, GO, Swift
 * **UI:** Jetpack Compose & Material 3
 * **Core:** Xray-core (Go / JNI)
 * **Security:** Tink Crypto, Network Security Config
